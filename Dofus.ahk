@@ -22,8 +22,6 @@ Send, {enter}
 Send, /invite Head-Tank
 sleep, 250
 Send, {enter}
-sleep, 250
-Send, {enter}
 return
 
 MButton:: ; move all perso
@@ -86,16 +84,16 @@ Return
 UP:: ; bouger sur les maps
 {
 WinActivate, Head-shield - Dofus 2.64.7.19
-MouseClick , left ,1954,38
+MouseClick , left ,1255,29
 sleep, 50
 WinActivate, Head-Erode - Dofus 2.64.7.19
-MouseClick , left ,1954,38
+MouseClick , left ,1255,29
 sleep, 50
 WinActivate, Head-Eroding - Dofus 2.64.7.19
-MouseClick , left ,1954,38
+MouseClick , left ,1255,29
 sleep, 50
 WinActivate, Head-Tank - Dofus 2.64.7.19
-MouseClick , left ,1954,38
+MouseClick , left ,1255,29
 sleep, 50
 sleep, 5
 WinActivate, Head-Erode - Dofus 2.64.7.19
@@ -105,16 +103,16 @@ Return
 DOWN:: ; bouger sur les maps
 {
 WinActivate, Head-shield - Dofus 2.64.7.19
-MouseClick , left ,1826,1866
+MouseClick , left ,1052,948
 sleep, 50
 WinActivate, Head-Erode - Dofus 2.64.7.19
-MouseClick , left ,1826,1866
+MouseClick , left ,1052,948
 sleep, 50
 WinActivate, Head-Eroding - Dofus 2.64.7.19
-MouseClick , left ,1826,1866
+MouseClick , left ,1052,948
 sleep, 50
 WinActivate, Head-Tank - Dofus 2.64.7.19
-MouseClick , left ,1826,1866
+MouseClick , left ,1052,948
 sleep, 50
 sleep, 5
 WinActivate, Head-Erode - Dofus 2.64.7.19
@@ -124,16 +122,16 @@ Return
 LEFT:: ; bouger sur les maps
 {
 WinActivate, Head-shield - Dofus 2.64.7.19
-MouseClick , left ,648,962
+MouseClick , left ,226,599
 sleep, 50
 WinActivate, Head-Erode - Dofus 2.64.7.19
-MouseClick , left ,648,962
+MouseClick , left ,226,599
 sleep, 50
 WinActivate, Head-Eroding - Dofus 2.64.7.19
-MouseClick , left ,648,962
+MouseClick , left ,226,599
 sleep, 50
 WinActivate, Head-Tank - Dofus 2.64.7.19
-MouseClick , left ,648,962
+MouseClick , left ,226,599
 sleep, 50
 sleep, 5
 WinActivate, Head-Erode - Dofus 2.64.7.19
@@ -143,16 +141,16 @@ Return
 RIGHT:: ; bouger sur les maps
 {
 WinActivate, Head-shield - Dofus 2.64.7.19
-MouseClick , left ,3409,925
+MouseClick , left ,1799,552
 sleep, 50
 WinActivate, Head-Erode - Dofus 2.64.7.19
-MouseClick , left ,3409,925
+MouseClick , left ,1799,552
 sleep, 50
 WinActivate, Head-Eroding - Dofus 2.64.7.19
-MouseClick , left ,3409,925
+MouseClick , left ,1799,552
 sleep, 50
 WinActivate, Head-Tank - Dofus 2.64.7.19
-MouseClick , left ,3409,925
+MouseClick , left ,1799,552
 sleep, 50
 sleep, 5
 WinActivate, Head-Erode - Dofus 2.64.7.19
